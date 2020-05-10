@@ -22,8 +22,9 @@ The program is easy to run by following steps:
 ### Output
 Two possibilities that we have:
 1. Our program captures the up to date data. So the output must be like this one
-![uptodate](../master/img/Screenshot from 2020-05-10 18-35-28.png)
 2. Unluckily, our program is too early running
+
+![uptodate](../master/img/Screenshot from 2020-05-10 18-35-28.png)
 ![not-uptodate](../master/img/Screenshot from 2020-05-10 18-36-33.png)
 
 ### Automation
