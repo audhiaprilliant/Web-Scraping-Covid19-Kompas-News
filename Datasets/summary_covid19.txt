@@ -1,0 +1,2 @@
+'date','time','terkonfirmasi','dirawat','meninggal','sembuh'
+9 Mei 2020,16:07 WIB,13.645,10.079,959,2.607
