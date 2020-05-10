@@ -1,4 +1,5 @@
 ## Web Scraping Covid19 Kompas News Using BeautifulSoup Python3
+### Indonesia
 
 ### Prerequisites
 1. Python 3.x, of course
