@@ -22,11 +22,9 @@ The program is easy to run by following steps:
 ### Output
 Two possibilities that we have:
 1. Our program captures the up to date data. So the output must be like this one
+<img src='img/Screenshot from 2020-05-10 18-35-28.png' alt='uptodate' class='center'>
 2. Unluckily, our program is too early running
-
-<img src='img/Screenshot from 2020-05-10 18-35-28.png' alt="Italian Trulli">
-![uptodate](img/'Screenshot from 2020-05-10 18-35-28.png')
-![not-uptodate](/img/'Screenshot from 2020-05-10 18-36-33.png')
+<img src='img/Screenshot from 2020-05-10 18-36-33.png' alt='not-uptodate' class='center'>
 
 ### Automation
 We could also automate the program by using crobtab scheduler in Linux. The following steps to configure the crontab are:
