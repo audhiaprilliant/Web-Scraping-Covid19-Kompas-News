@@ -8,6 +8,7 @@
    - **os** provides functions for interacting with the operating system
    - **re** provides regular expression matching operations similar to those found in Perl
    - **datetime** supplies classes for manipulating dates and times
+   - **requests** allows you to send HTTP/1.1 requests extremely easily
 
 ### Steps
 The program is easy to run by following steps:
