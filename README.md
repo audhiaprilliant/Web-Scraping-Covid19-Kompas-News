@@ -18,3 +18,16 @@ The program is easy to run by following steps:
 3. Download the module dependencies by typing `pip install -r requirements.txt`
 4. Type `python3 'Web Scraping Covid-19 Kompas News.py'`
 5. Finally, the data will be in your directory
+
+### Automation
+We could also automate the program by using crobtab scheduler in Linux. The following steps to configure the crontab are:
+1. Type `crontab -l` in your terminal to add a new crobjob
+2. Specify the scheduler. I suggest you to look at [here](https://crontab.guru/) for details of scheduler and also the examples
+3. Open new terminal and find a directory of our **Python3** by typing `whereis python3`. It must be saved in `/usr/bin/python3` directory
+4. Back to the first terminal and type `45 16 * * * cd /your path of web scraping script/ && /usr/bin/python3 'Web Scraping Covid-19 Kompas News.py'`
+   If you feel a little bit confuse with the command, let me tell you what I know
+   - `45 16 * * *` is our schedule. The crontab uses our local time instead of UTC. So our program is going to be running at 16.45 everyday for every month
+   - `/your path of web scraping script/` must be the directory where you keep the python script. In my case, it is in **'home/covid19 data'**
+   - `/usr/bin/python3` is the directory of Python3 interpreter
+5. Finally, save the crobtab configuration
+
