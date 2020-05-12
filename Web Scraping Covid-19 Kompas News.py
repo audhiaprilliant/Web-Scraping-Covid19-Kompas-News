@@ -43,10 +43,10 @@ if __name__ == "__main__":
         meninggal_elem = job_elem.find('div',class_='covid__box2 -gone')
         sembuh_elem = job_elem.find('div',class_='covid__box2 -health')
         # Daily update
-        a = pattern_summary.findall(terkonfirmasi_elem.text)[0].replace(',','.')
-        b = pattern_summary.findall(dirawat_elem.text)[0].replace(',','.')
-        c = pattern_summary.findall(meninggal_elem.text)[0]
-        d = pattern_summary.findall(sembuh_elem.text)[0].replace(',','.')
+        a = pattern_summary.findall(terkonfirmasi_elem.text)[0].replace(',','')
+        b = pattern_summary.findall(dirawat_elem.text)[0].replace(',','')
+        c = pattern_summary.findall(meninggal_elem.text)[0].replace(',','')
+        d = pattern_summary.findall(sembuh_elem.text)[0].replace(',','')
         daily_update = ','.join([date,time,a,b,c,d])
 
     with open(dir_path+'/'+'Datasets/summary_covid19.txt','r') as f:
