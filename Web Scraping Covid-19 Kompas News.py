@@ -104,4 +104,4 @@ if __name__ == "__main__":
                 print(df.head())
                 ff.close()
     # Timing
-    print('Program is done in', datetime.now() - startTime)
+    print('Program is done in', datetime.now() - startTime,'\n')
