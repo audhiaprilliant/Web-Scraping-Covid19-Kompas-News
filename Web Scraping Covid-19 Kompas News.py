@@ -52,7 +52,7 @@ if __name__ == "__main__":
     with open(dir_path+'/'+'Datasets/summary_covid19.txt','r') as f:
         lines = f.read().splitlines()
         last_line = lines[-1]
-        if last_line == daily_update:
+        if last_line.split(',')[0] == daily_update.split(',')[0]:
             print('----- Summary Data -----')
             print('The data has not been updated yet!')
             print('Last update:',re.findall(r'^(.+?),',last_line)[0])
