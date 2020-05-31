@@ -1,4 +1,4 @@
-'date','time','provinsi','terkonfirmasi','meninggal','sembuh'
+date,time,provinsi,terkonfirmasi,meninggal,sembuh
 9 Mei 2020,16:07 WIB,Jawa Barat,1437,95,202
 9 Mei 2020,16:07 WIB,Jawa Timur,1419,141,227
 9 Mei 2020,16:07 WIB,Jawa Tengah,959,66,173
@@ -33,3 +33,738 @@
 9 Mei 2020,16:07 WIB,Gorontalo,19,1,11
 9 Mei 2020,16:07 WIB,Aceh,17,1,11
 9 Mei 2020,16:07 WIB,Nusa Tenggara Timur,12,0,1
+10 Mei 2020,15:57 WIB,DKI Jakarta,5190,434,803
+10 Mei 2020,15:57 WIB,Jawa Timur,1502,143,230
+10 Mei 2020,15:57 WIB,Jawa Barat,1437,95,202
+10 Mei 2020,15:57 WIB,Jawa Tengah,978,66,173
+10 Mei 2020,15:57 WIB,Sulawesi Selatan,722,47,265
+10 Mei 2020,15:57 WIB,Banten,533,56,122
+10 Mei 2020,15:57 WIB,Nusa Tenggara Barat,330,6,92
+10 Mei 2020,15:57 WIB,Bali,311,4,204
+10 Mei 2020,15:57 WIB,Papua,308,6,48
+10 Mei 2020,15:57 WIB,Sumatera Barat,299,17,56
+10 Mei 2020,15:57 WIB,Sumatera Selatan,278,9,55
+10 Mei 2020,15:57 WIB,Kalimantan Selatan,263,9,24
+10 Mei 2020,15:57 WIB,Kalimantan Timur,218,2,34
+10 Mei 2020,15:57 WIB,Kalimantan Tengah,193,7,30
+10 Mei 2020,15:57 WIB,Sumatera Utara,179,21,48
+10 Mei 2020,15:57 WIB,DI Yogyakarta,153,7,60
+10 Mei 2020,15:57 WIB,Kalimantan Utara,131,1,7
+10 Mei 2020,15:57 WIB,Kalimantan Barat,120,3,12
+10 Mei 2020,15:57 WIB,Kepulauan Riau,101,11,68
+10 Mei 2020,15:57 WIB,Sulawesi Tengah,83,3,12
+10 Mei 2020,15:57 WIB,Sulawesi Tenggara,76,2,16
+10 Mei 2020,15:57 WIB,Riau,73,6,39
+10 Mei 2020,15:57 WIB,Sulawesi Utara,71,4,17
+10 Mei 2020,15:57 WIB,Papua Barat,70,1,2
+10 Mei 2020,15:57 WIB,Lampung,66,5,21
+10 Mei 2020,15:57 WIB,Jambi,64,0,3
+10 Mei 2020,15:57 WIB,Sulawesi Barat,62,2,5
+10 Mei 2020,15:57 WIB,Maluku Utara,54,0,8
+10 Mei 2020,15:57 WIB,Bengkulu,37,1,1
+10 Mei 2020,15:57 WIB,Maluku,32,2,12
+10 Mei 2020,15:57 WIB,Kep. Bangka Belitung,29,1,6
+10 Mei 2020,15:57 WIB,Lokasi belum diketahui,21,0,0
+10 Mei 2020,15:57 WIB,Gorontalo,19,1,11
+10 Mei 2020,15:57 WIB,Aceh,17,1,11
+10 Mei 2020,15:57 WIB,Nusa Tenggara Timur,12,0,1
+11 Mei 2020,16:16 WIB,DKI Jakarta,5276,441,812
+11 Mei 2020,16:16 WIB,Jawa Timur,1536,149,244
+11 Mei 2020,16:16 WIB,Jawa Barat,1493,95,213
+11 Mei 2020,16:16 WIB,Jawa Tengah,980,66,229
+11 Mei 2020,16:16 WIB,Sulawesi Selatan,722,49,276
+11 Mei 2020,16:16 WIB,Banten,541,56,146
+11 Mei 2020,16:16 WIB,Nusa Tenggara Barat,331,6,105
+11 Mei 2020,16:16 WIB,Bali,314,4,210
+11 Mei 2020,16:16 WIB,Papua,308,6,48
+11 Mei 2020,16:16 WIB,Sumatera Barat,299,17,67
+11 Mei 2020,16:16 WIB,Sumatera Selatan,278,9,64
+11 Mei 2020,16:16 WIB,Kalimantan Selatan,263,9,24
+11 Mei 2020,16:16 WIB,Kalimantan Timur,225,2,37
+11 Mei 2020,16:16 WIB,Kalimantan Tengah,200,7,30
+11 Mei 2020,16:16 WIB,Sumatera Utara,196,24,48
+11 Mei 2020,16:16 WIB,DI Yogyakarta,159,7,61
+11 Mei 2020,16:16 WIB,Kalimantan Utara,132,1,7
+11 Mei 2020,16:16 WIB,Kalimantan Barat,120,3,12
+11 Mei 2020,16:16 WIB,Kepulauan Riau,104,11,72
+11 Mei 2020,16:16 WIB,Sulawesi Tengah,83,3,13
+11 Mei 2020,16:16 WIB,Sulawesi Tenggara,76,2,16
+11 Mei 2020,16:16 WIB,Riau,74,6,46
+11 Mei 2020,16:16 WIB,Sulawesi Utara,71,4,17
+11 Mei 2020,16:16 WIB,Papua Barat,70,1,2
+11 Mei 2020,16:16 WIB,Lampung,66,5,22
+11 Mei 2020,16:16 WIB,Jambi,65,0,3
+11 Mei 2020,16:16 WIB,Sulawesi Barat,62,2,5
+11 Mei 2020,16:16 WIB,Maluku Utara,54,0,8
+11 Mei 2020,16:16 WIB,Bengkulu,37,1,1
+11 Mei 2020,16:16 WIB,Maluku,32,2,12
+11 Mei 2020,16:16 WIB,Kep. Bangka Belitung,29,1,7
+11 Mei 2020,16:16 WIB,Lokasi belum diketahui,21,0,0
+11 Mei 2020,16:16 WIB,Gorontalo,19,1,12
+11 Mei 2020,16:16 WIB,Aceh,17,1,11
+11 Mei 2020,16:16 WIB,Nusa Tenggara Timur,12,0,1
+12 Mei 2020,15:54 WIB,DKI Jakarta,5375,443,924
+12 Mei 2020,15:54 WIB,Jawa Timur,1669,155,258
+12 Mei 2020,15:54 WIB,Jawa Barat,1545,98,213
+12 Mei 2020,15:54 WIB,Jawa Tengah,989,66,229
+12 Mei 2020,15:54 WIB,Sulawesi Selatan,747,49,283
+12 Mei 2020,15:54 WIB,Banten,559,56,153
+12 Mei 2020,15:54 WIB,Nusa Tenggara Barat,339,6,105
+12 Mei 2020,15:54 WIB,Bali,328,4,215
+12 Mei 2020,15:54 WIB,Papua,322,6,48
+12 Mei 2020,15:54 WIB,Sumatera Barat,319,18,70
+12 Mei 2020,15:54 WIB,Sumatera Selatan,279,9,64
+12 Mei 2020,15:54 WIB,Kalimantan Selatan,277,9,24
+12 Mei 2020,15:54 WIB,Kalimantan Timur,228,3,41
+12 Mei 2020,15:54 WIB,Kalimantan Tengah,204,7,30
+12 Mei 2020,15:54 WIB,Sumatera Utara,198,24,48
+12 Mei 2020,15:54 WIB,DI Yogyakarta,169,7,63
+12 Mei 2020,15:54 WIB,Kalimantan Utara,132,1,7
+12 Mei 2020,15:54 WIB,Kalimantan Barat,123,3,20
+12 Mei 2020,15:54 WIB,Kepulauan Riau,106,11,72
+12 Mei 2020,15:54 WIB,Sulawesi Tengah,95,3,13
+12 Mei 2020,15:54 WIB,Riau,81,6,49
+12 Mei 2020,15:54 WIB,Sulawesi Tenggara,76,2,16
+12 Mei 2020,15:54 WIB,Sulawesi Utara,74,5,26
+12 Mei 2020,15:54 WIB,Papua Barat,70,1,2
+12 Mei 2020,15:54 WIB,Sulawesi Barat,68,2,7
+12 Mei 2020,15:54 WIB,Lampung,66,5,22
+12 Mei 2020,15:54 WIB,Jambi,65,0,3
+12 Mei 2020,15:54 WIB,Maluku Utara,54,0,8
+12 Mei 2020,15:54 WIB,Maluku,50,4,17
+12 Mei 2020,15:54 WIB,Bengkulu,40,1,1
+12 Mei 2020,15:54 WIB,Kep. Bangka Belitung,29,1,7
+12 Mei 2020,15:54 WIB,Lokasi belum diketahui,21,0,0
+12 Mei 2020,15:54 WIB,Gorontalo,19,1,12
+12 Mei 2020,15:54 WIB,Aceh,17,1,12
+12 Mei 2020,15:54 WIB,Nusa Tenggara Timur,16,0,1
+13 Mei 2020,16:09 WIB,DKI Jakarta,5554,449,1026
+13 Mei 2020,16:09 WIB,Jawa Timur,1772,163,274
+13 Mei 2020,16:09 WIB,Jawa Barat,1556,98,237
+13 Mei 2020,16:09 WIB,Jawa Tengah,1023,66,229
+13 Mei 2020,16:09 WIB,Sulawesi Selatan,803,49,288
+13 Mei 2020,16:09 WIB,Banten,580,57,157
+13 Mei 2020,16:09 WIB,Nusa Tenggara Barat,344,7,114
+13 Mei 2020,16:09 WIB,Sumatera Barat,339,19,83
+13 Mei 2020,16:09 WIB,Bali,332,4,220
+13 Mei 2020,16:09 WIB,Papua,328,6,48
+13 Mei 2020,16:09 WIB,Sumatera Selatan,322,9,73
+13 Mei 2020,16:09 WIB,Kalimantan Selatan,291,9,24
+13 Mei 2020,16:09 WIB,Kalimantan Timur,230,3,46
+13 Mei 2020,16:09 WIB,Kalimantan Tengah,220,7,30
+13 Mei 2020,16:09 WIB,Sumatera Utara,200,24,53
+13 Mei 2020,16:09 WIB,DI Yogyakarta,181,7,68
+13 Mei 2020,16:09 WIB,Sulawesi Tenggara,167,3,17
+13 Mei 2020,16:09 WIB,Kalimantan Utara,138,1,14
+13 Mei 2020,16:09 WIB,Kalimantan Barat,129,3,22
+13 Mei 2020,16:09 WIB,Kepulauan Riau,111,11,77
+13 Mei 2020,16:09 WIB,Sulawesi Tengah,101,3,20
+13 Mei 2020,16:09 WIB,Riau,88,6,49
+13 Mei 2020,16:09 WIB,Sulawesi Utara,82,5,26
+13 Mei 2020,16:09 WIB,Maluku Utara,78,3,8
+13 Mei 2020,16:09 WIB,Sulawesi Barat,73,2,7
+13 Mei 2020,16:09 WIB,Papua Barat,70,1,2
+13 Mei 2020,16:09 WIB,Lampung,66,5,22
+13 Mei 2020,16:09 WIB,Jambi,65,0,3
+13 Mei 2020,16:09 WIB,Maluku,50,4,17
+13 Mei 2020,16:09 WIB,Bengkulu,40,1,1
+13 Mei 2020,16:09 WIB,Kep. Bangka Belitung,29,1,7
+13 Mei 2020,16:09 WIB,Lokasi belum diketahui,21,0,0
+13 Mei 2020,16:09 WIB,Gorontalo,19,1,12
+13 Mei 2020,16:09 WIB,Nusa Tenggara Timur,19,0,1
+13 Mei 2020,16:09 WIB,Aceh,17,1,12
+14 Mei 2020,17:48 WIB,DKI Jakarta,5688,452,1162
+14 Mei 2020,17:48 WIB,Jawa Timur,1863,167,278
+14 Mei 2020,17:48 WIB,Jawa Barat,1565,99,242
+14 Mei 2020,17:48 WIB,Jawa Tengah,1066,66,229
+14 Mei 2020,17:48 WIB,Sulawesi Selatan,840,51,293
+14 Mei 2020,17:48 WIB,Banten,593,57,158
+14 Mei 2020,17:48 WIB,Sumatera Selatan,441,9,73
+14 Mei 2020,17:48 WIB,Sumatera Barat,371,21,86
+14 Mei 2020,17:48 WIB,Nusa Tenggara Barat,350,7,138
+14 Mei 2020,17:48 WIB,Bali,337,4,223
+14 Mei 2020,17:48 WIB,Papua,332,6,48
+14 Mei 2020,17:48 WIB,Kalimantan Selatan,294,9,24
+14 Mei 2020,17:48 WIB,Kalimantan Timur,238,3,57
+14 Mei 2020,17:48 WIB,Kalimantan Tengah,223,7,40
+14 Mei 2020,17:48 WIB,Sumatera Utara,202,24,53
+14 Mei 2020,17:48 WIB,DI Yogyakarta,185,7,68
+14 Mei 2020,17:48 WIB,Sulawesi Tenggara,166,3,17
+14 Mei 2020,17:48 WIB,Kalimantan Utara,138,1,20
+14 Mei 2020,17:48 WIB,Kalimantan Barat,129,3,22
+14 Mei 2020,17:48 WIB,Kepulauan Riau,111,11,77
+14 Mei 2020,17:48 WIB,Sulawesi Tengah,111,4,21
+14 Mei 2020,17:48 WIB,Riau,94,6,49
+14 Mei 2020,17:48 WIB,Papua Barat,88,1,2
+14 Mei 2020,17:48 WIB,Sulawesi Utara,83,5,30
+14 Mei 2020,17:48 WIB,Maluku Utara,81,3,11
+14 Mei 2020,17:48 WIB,Sulawesi Barat,74,2,20
+14 Mei 2020,17:48 WIB,Lampung,66,5,22
+14 Mei 2020,17:48 WIB,Jambi,66,0,3
+14 Mei 2020,17:48 WIB,Maluku,62,4,17
+14 Mei 2020,17:48 WIB,Bengkulu,42,2,1
+14 Mei 2020,17:48 WIB,Kep. Bangka Belitung,29,1,7
+14 Mei 2020,17:48 WIB,Gorontalo,21,1,13
+14 Mei 2020,17:48 WIB,Lokasi belum diketahui,21,0,0
+14 Mei 2020,17:48 WIB,Nusa Tenggara Timur,19,1,1
+14 Mei 2020,17:48 WIB,Aceh,17,1,13
+15 Mei 2020,16:21 WIB,DKI Jakarta,5774,460,1276
+15 Mei 2020,16:21 WIB,Jawa Timur,1921,178,294
+15 Mei 2020,16:21 WIB,Jawa Barat,1596,100,259
+15 Mei 2020,16:21 WIB,Jawa Tengah,1109,70,234
+15 Mei 2020,16:21 WIB,Sulawesi Selatan,871,51,293
+15 Mei 2020,16:21 WIB,Banten,622,60,158
+15 Mei 2020,16:21 WIB,Sumatera Selatan,458,9,73
+15 Mei 2020,16:21 WIB,Sumatera Barat,393,21,88
+15 Mei 2020,16:21 WIB,Kalimantan Selatan,363,9,24
+15 Mei 2020,16:21 WIB,Nusa Tenggara Barat,358,7,188
+15 Mei 2020,16:21 WIB,Bali,343,4,232
+15 Mei 2020,16:21 WIB,Papua,335,6,48
+15 Mei 2020,16:21 WIB,Kalimantan Timur,251,3,61
+15 Mei 2020,16:21 WIB,Kalimantan Tengah,227,11,87
+15 Mei 2020,16:21 WIB,Sumatera Utara,202,24,53
+15 Mei 2020,16:21 WIB,DI Yogyakarta,188,7,71
+15 Mei 2020,16:21 WIB,Sulawesi Tenggara,183,5,24
+15 Mei 2020,16:21 WIB,Kalimantan Utara,141,1,23
+15 Mei 2020,16:21 WIB,Kalimantan Barat,129,3,22
+15 Mei 2020,16:21 WIB,Kepulauan Riau,115,11,77
+15 Mei 2020,16:21 WIB,Sulawesi Tengah,112,4,21
+15 Mei 2020,16:21 WIB,Sulawesi Utara,105,5,30
+15 Mei 2020,16:21 WIB,Riau,95,6,53
+15 Mei 2020,16:21 WIB,Papua Barat,88,1,2
+15 Mei 2020,16:21 WIB,Maluku Utara,85,3,12
+15 Mei 2020,16:21 WIB,Sulawesi Barat,74,2,22
+15 Mei 2020,16:21 WIB,Jambi,69,0,3
+15 Mei 2020,16:21 WIB,Lampung,66,5,22
+15 Mei 2020,16:21 WIB,Maluku,62,4,17
+15 Mei 2020,16:21 WIB,Bengkulu,53,2,1
+15 Mei 2020,16:21 WIB,Kep. Bangka Belitung,29,1,7
+15 Mei 2020,16:21 WIB,Gorontalo,22,1,14
+15 Mei 2020,16:21 WIB,Lokasi belum diketahui,21,0,0
+15 Mei 2020,16:21 WIB,Nusa Tenggara Timur,19,1,1
+15 Mei 2020,16:21 WIB,Aceh,17,1,13
+16 Mei 2020,16:10 WIB,DKI Jakarta,5881,460,1295
+16 Mei 2020,16:10 WIB,Jawa Timur,2105,183,302
+16 Mei 2020,16:10 WIB,Jawa Barat,1618,100,262
+16 Mei 2020,16:10 WIB,Jawa Tengah,1140,70,247
+16 Mei 2020,16:10 WIB,Sulawesi Selatan,917,52,312
+16 Mei 2020,16:10 WIB,Banten,626,61,158
+16 Mei 2020,16:10 WIB,Sumatera Selatan,458,11,73
+16 Mei 2020,16:10 WIB,Sumatera Barat,396,22,91
+16 Mei 2020,16:10 WIB,Kalimantan Selatan,370,9,24
+16 Mei 2020,16:10 WIB,Nusa Tenggara Barat,365,7,188
+16 Mei 2020,16:10 WIB,Papua,350,6,48
+16 Mei 2020,16:10 WIB,Bali,346,4,243
+16 Mei 2020,16:10 WIB,Kalimantan Timur,253,3,63
+16 Mei 2020,16:10 WIB,Kalimantan Tengah,227,11,87
+16 Mei 2020,16:10 WIB,Sumatera Utara,202,24,53
+16 Mei 2020,16:10 WIB,DI Yogyakarta,194,8,77
+16 Mei 2020,16:10 WIB,Sulawesi Tenggara,189,5,24
+16 Mei 2020,16:10 WIB,Kalimantan Utara,153,1,29
+16 Mei 2020,16:10 WIB,Kalimantan Barat,131,3,22
+16 Mei 2020,16:10 WIB,Kepulauan Riau,116,11,80
+16 Mei 2020,16:10 WIB,Sulawesi Utara,114,6,31
+16 Mei 2020,16:10 WIB,Sulawesi Tengah,113,4,22
+16 Mei 2020,16:10 WIB,Papua Barat,102,1,5
+16 Mei 2020,16:10 WIB,Riau,95,6,54
+16 Mei 2020,16:10 WIB,Maluku Utara,88,4,12
+16 Mei 2020,16:10 WIB,Jambi,79,0,3
+16 Mei 2020,16:10 WIB,Sulawesi Barat,75,2,23
+16 Mei 2020,16:10 WIB,Lampung,66,5,26
+16 Mei 2020,16:10 WIB,Maluku,62,4,17
+16 Mei 2020,16:10 WIB,Bengkulu,56,2,1
+16 Mei 2020,16:10 WIB,Nusa Tenggara Timur,47,1,2
+16 Mei 2020,16:10 WIB,Kep. Bangka Belitung,29,1,7
+16 Mei 2020,16:10 WIB,Gorontalo,23,1,15
+16 Mei 2020,16:10 WIB,Lokasi belum diketahui,21,0,0
+16 Mei 2020,16:10 WIB,Aceh,18,1,15
+17 Mei 2020,16:11 WIB,DKI Jakarta,6010,463,1306
+17 Mei 2020,16:11 WIB,Jawa Timur,2152,194,312
+17 Mei 2020,16:11 WIB,Jawa Barat,1652,110,320
+17 Mei 2020,16:11 WIB,Jawa Tengah,1157,70,247
+17 Mei 2020,16:11 WIB,Sulawesi Selatan,951,53,319
+17 Mei 2020,16:11 WIB,Banten,650,61,159
+17 Mei 2020,16:11 WIB,Sumatera Selatan,521,11,73
+17 Mei 2020,16:11 WIB,Sumatera Barat,408,22,95
+17 Mei 2020,16:11 WIB,Papua,383,6,48
+17 Mei 2020,16:11 WIB,Kalimantan Selatan,372,36,73
+17 Mei 2020,16:11 WIB,Nusa Tenggara Barat,371,7,200
+17 Mei 2020,16:11 WIB,Bali,348,4,250
+17 Mei 2020,16:11 WIB,Kalimantan Timur,254,3,66
+17 Mei 2020,16:11 WIB,Kalimantan Tengah,227,11,87
+17 Mei 2020,16:11 WIB,Sumatera Utara,218,26,58
+17 Mei 2020,16:11 WIB,DI Yogyakarta,199,8,85
+17 Mei 2020,16:11 WIB,Sulawesi Tenggara,191,5,24
+17 Mei 2020,16:11 WIB,Kalimantan Utara,155,1,41
+17 Mei 2020,16:11 WIB,Kalimantan Barat,132,4,24
+17 Mei 2020,16:11 WIB,Kepulauan Riau,116,11,80
+17 Mei 2020,16:11 WIB,Sulawesi Tengah,115,4,24
+17 Mei 2020,16:11 WIB,Sulawesi Utara,114,7,31
+17 Mei 2020,16:11 WIB,Papua Barat,105,1,5
+17 Mei 2020,16:11 WIB,Riau,99,6,60
+17 Mei 2020,16:11 WIB,Maluku Utara,92,4,12
+17 Mei 2020,16:11 WIB,Maluku,84,6,17
+17 Mei 2020,16:11 WIB,Jambi,80,0,4
+17 Mei 2020,16:11 WIB,Sulawesi Barat,75,2,23
+17 Mei 2020,16:11 WIB,Lampung,67,5,26
+17 Mei 2020,16:11 WIB,Bengkulu,65,2,1
+17 Mei 2020,16:11 WIB,Nusa Tenggara Timur,59,1,6
+17 Mei 2020,16:11 WIB,Kep. Bangka Belitung,29,1,23
+17 Mei 2020,16:11 WIB,Gorontalo,24,2,15
+17 Mei 2020,16:11 WIB,Lokasi belum diketahui,21,0,0
+17 Mei 2020,16:11 WIB,Aceh,18,1,15
+18 Mei 2020,16:25 WIB,DKI Jakarta,6059,463,1307
+18 Mei 2020,16:25 WIB,Jawa Timur,2296,209,337
+18 Mei 2020,16:25 WIB,Jawa Barat,1677,123,397
+18 Mei 2020,16:25 WIB,Jawa Tengah,1165,70,252
+18 Mei 2020,16:25 WIB,Sulawesi Selatan,1017,55,337
+18 Mei 2020,16:25 WIB,Banten,677,62,162
+18 Mei 2020,16:25 WIB,Sumatera Selatan,537,13,73
+18 Mei 2020,16:25 WIB,Kalimantan Selatan,438,44,73
+18 Mei 2020,16:25 WIB,Sumatera Barat,409,22,107
+18 Mei 2020,16:25 WIB,Papua,383,6,48
+18 Mei 2020,16:25 WIB,Nusa Tenggara Barat,375,7,213
+18 Mei 2020,16:25 WIB,Bali,359,4,257
+18 Mei 2020,16:25 WIB,Kalimantan Timur,255,3,76
+18 Mei 2020,16:25 WIB,Kalimantan Tengah,227,11,87
+18 Mei 2020,16:25 WIB,Sumatera Utara,225,27,58
+18 Mei 2020,16:25 WIB,DI Yogyakarta,200,8,90
+18 Mei 2020,16:25 WIB,Sulawesi Tenggara,191,5,24
+18 Mei 2020,16:25 WIB,Kalimantan Utara,155,1,41
+18 Mei 2020,16:25 WIB,Kalimantan Barat,132,4,32
+18 Mei 2020,16:25 WIB,Kepulauan Riau,127,11,83
+18 Mei 2020,16:25 WIB,Sulawesi Utara,116,7,31
+18 Mei 2020,16:25 WIB,Sulawesi Tengah,115,4,26
+18 Mei 2020,16:25 WIB,Maluku,107,6,21
+18 Mei 2020,16:25 WIB,Papua Barat,105,1,5
+18 Mei 2020,16:25 WIB,Riau,101,6,61
+18 Mei 2020,16:25 WIB,Maluku Utara,93,4,12
+18 Mei 2020,16:25 WIB,Lampung,83,6,26
+18 Mei 2020,16:25 WIB,Jambi,81,0,4
+18 Mei 2020,16:25 WIB,Sulawesi Barat,75,2,23
+18 Mei 2020,16:25 WIB,Nusa Tenggara Timur,68,1,6
+18 Mei 2020,16:25 WIB,Bengkulu,66,2,1
+18 Mei 2020,16:25 WIB,Kep. Bangka Belitung,29,1,24
+18 Mei 2020,16:25 WIB,Gorontalo,28,2,15
+18 Mei 2020,16:25 WIB,Lokasi belum diketahui,21,0,0
+18 Mei 2020,16:25 WIB,Aceh,18,1,15
+19 Mei 2020,16:30 WIB,DKI Jakarta,6155,470,1329
+19 Mei 2020,16:30 WIB,Jawa Timur,2377,222,375
+19 Mei 2020,16:30 WIB,Jawa Barat,1700,124,411
+19 Mei 2020,16:30 WIB,Jawa Tengah,1175,70,252
+19 Mei 2020,16:30 WIB,Sulawesi Selatan,1064,55,358
+19 Mei 2020,16:30 WIB,Banten,698,62,162
+19 Mei 2020,16:30 WIB,Nusa Tenggara Barat,375,7,213
+19 Mei 2020,16:30 WIB,Sumatera Barat,420,22,117
+19 Mei 2020,16:30 WIB,Bali,363,4,267
+19 Mei 2020,16:30 WIB,Papua,389,6,48
+19 Mei 2020,16:30 WIB,Sumatera Selatan,597,18,77
+19 Mei 2020,16:30 WIB,Kalimantan Selatan,484,47,73
+19 Mei 2020,16:30 WIB,Kalimantan Timur,258,3,81
+19 Mei 2020,16:30 WIB,Kalimantan Tengah,232,11,87
+19 Mei 2020,16:30 WIB,Sumatera Utara,235,28,58
+19 Mei 2020,16:30 WIB,DI Yogyakarta,207,8,95
+19 Mei 2020,16:30 WIB,Sulawesi Tenggara,202,5,25
+19 Mei 2020,16:30 WIB,Kalimantan Utara,160,1,51
+19 Mei 2020,16:30 WIB,Kalimantan Barat,132,4,32
+19 Mei 2020,16:30 WIB,Kepulauan Riau,140,11,83
+19 Mei 2020,16:30 WIB,Sulawesi Tengah,115,4,26
+19 Mei 2020,16:30 WIB,Riau,106,6,62
+19 Mei 2020,16:30 WIB,Sulawesi Utara,126,7,31
+19 Mei 2020,16:30 WIB,Maluku Utara,95,4,12
+19 Mei 2020,16:30 WIB,Sulawesi Barat,77,2,25
+19 Mei 2020,16:30 WIB,Papua Barat,105,1,5
+19 Mei 2020,16:30 WIB,Lampung,84,6,26
+19 Mei 2020,16:30 WIB,Jambi,84,0,4
+19 Mei 2020,16:30 WIB,Maluku,107,6,21
+19 Mei 2020,16:30 WIB,Bengkulu,67,2,1
+19 Mei 2020,16:30 WIB,Kep. Bangka Belitung,29,1,24
+19 Mei 2020,16:30 WIB,Lokasi belum diketahui,21,0,0
+19 Mei 2020,16:30 WIB,Gorontalo,28,2,15
+19 Mei 2020,16:30 WIB,Nusa Tenggara Timur,71,1,6
+19 Mei 2020,16:30 WIB,Aceh,18,1,15
+20 Mei 2020,15:56 WIB,DKI Jakarta,6236,472,1329
+20 Mei 2020,15:56 WIB,Jawa Timur,2496,228,387
+20 Mei 2020,15:56 WIB,Jawa Barat,1876,124,412
+20 Mei 2020,15:56 WIB,Jawa Tengah,1192,70,253
+20 Mei 2020,15:56 WIB,Sulawesi Selatan,1101,56,367
+20 Mei 2020,15:56 WIB,Banten,699,62,162
+20 Mei 2020,15:56 WIB,Sumatera Selatan,646,19,77
+20 Mei 2020,15:56 WIB,Kalimantan Selatan,547,52,76
+20 Mei 2020,15:56 WIB,Sumatera Barat,428,23,145
+20 Mei 2020,15:56 WIB,Papua,409,6,48
+20 Mei 2020,15:56 WIB,Nusa Tenggara Barat,393,7,213
+20 Mei 2020,15:56 WIB,Bali,371,4,276
+20 Mei 2020,15:56 WIB,Kalimantan Timur,264,3,85
+20 Mei 2020,15:56 WIB,Sumatera Utara,250,30,74
+20 Mei 2020,15:56 WIB,Kalimantan Tengah,241,11,105
+20 Mei 2020,15:56 WIB,DI Yogyakarta,209,8,97
+20 Mei 2020,15:56 WIB,Sulawesi Tenggara,202,5,25
+20 Mei 2020,15:56 WIB,Kalimantan Utara,160,1,51
+20 Mei 2020,15:56 WIB,Sulawesi Utara,152,8,31
+20 Mei 2020,15:56 WIB,Kepulauan Riau,140,12,83
+20 Mei 2020,15:56 WIB,Kalimantan Barat,132,4,32
+20 Mei 2020,15:56 WIB,Maluku,124,7,21
+20 Mei 2020,15:56 WIB,Sulawesi Tengah,115,4,26
+20 Mei 2020,15:56 WIB,Riau,107,6,63
+20 Mei 2020,15:56 WIB,Papua Barat,106,1,6
+20 Mei 2020,15:56 WIB,Maluku Utara,96,4,12
+20 Mei 2020,15:56 WIB,Jambi,89,0,4
+20 Mei 2020,15:56 WIB,Lampung,85,6,29
+20 Mei 2020,15:56 WIB,Sulawesi Barat,78,2,25
+20 Mei 2020,15:56 WIB,Nusa Tenggara Timur,76,1,6
+20 Mei 2020,15:56 WIB,Bengkulu,67,2,1
+20 Mei 2020,15:56 WIB,Kep. Bangka Belitung,35,1,24
+20 Mei 2020,15:56 WIB,Gorontalo,28,2,15
+20 Mei 2020,15:56 WIB,Lokasi belum diketahui,21,0,0
+20 Mei 2020,15:56 WIB,Aceh,18,1,15
+21 Mei 2020,16:17 WIB,DKI Jakarta,6301,481,1458
+21 Mei 2020,16:17 WIB,Jawa Timur,2998,241,403
+21 Mei 2020,16:17 WIB,Jawa Barat,1962,124,422
+21 Mei 2020,16:17 WIB,Jawa Tengah,1217,70,255
+21 Mei 2020,16:17 WIB,Sulawesi Selatan,1135,59,398
+21 Mei 2020,16:17 WIB,Banten,753,65,171
+21 Mei 2020,16:17 WIB,Sumatera Selatan,674,21,78
+21 Mei 2020,16:17 WIB,Kalimantan Selatan,557,54,76
+21 Mei 2020,16:17 WIB,Sumatera Barat,436,23,152
+21 Mei 2020,16:17 WIB,Nusa Tenggara Barat,410,7,217
+21 Mei 2020,16:17 WIB,Papua,410,6,48
+21 Mei 2020,16:17 WIB,Bali,374,4,280
+21 Mei 2020,16:17 WIB,Sumatera Utara,273,31,74
+21 Mei 2020,16:17 WIB,Kalimantan Timur,266,3,96
+21 Mei 2020,16:17 WIB,Kalimantan Tengah,254,11,115
+21 Mei 2020,16:17 WIB,DI Yogyakarta,215,8,105
+21 Mei 2020,16:17 WIB,Sulawesi Tenggara,202,5,25
+21 Mei 2020,16:17 WIB,Sulawesi Utara,180,11,31
+21 Mei 2020,16:17 WIB,Kalimantan Utara,162,1,51
+21 Mei 2020,16:17 WIB,Kepulauan Riau,140,12,83
+21 Mei 2020,16:17 WIB,Maluku,135,7,22
+21 Mei 2020,16:17 WIB,Kalimantan Barat,133,4,36
+21 Mei 2020,16:17 WIB,Sulawesi Tengah,117,4,37
+21 Mei 2020,16:17 WIB,Papua Barat,110,1,7
+21 Mei 2020,16:17 WIB,Riau,108,6,63
+21 Mei 2020,16:17 WIB,Lampung,101,6,31
+21 Mei 2020,16:17 WIB,Maluku Utara,97,4,12
+21 Mei 2020,16:17 WIB,Jambi,89,0,4
+21 Mei 2020,16:17 WIB,Sulawesi Barat,86,2,25
+21 Mei 2020,16:17 WIB,Nusa Tenggara Timur,79,1,6
+21 Mei 2020,16:17 WIB,Bengkulu,69,2,3
+21 Mei 2020,16:17 WIB,Gorontalo,44,2,15
+21 Mei 2020,16:17 WIB,Kep. Bangka Belitung,36,1,24
+21 Mei 2020,16:17 WIB,Lokasi belum diketahui,21,0,0
+21 Mei 2020,16:17 WIB,Aceh,18,1,15
+22 Mei 2020,16:28 WIB,DKI Jakarta,6400,500,1510
+22 Mei 2020,16:28 WIB,Jawa Timur,3129,256,413
+22 Mei 2020,16:28 WIB,Jawa Barat,2002,125,432
+22 Mei 2020,16:28 WIB,Jawa Tengah,1234,70,255
+22 Mei 2020,16:28 WIB,Sulawesi Selatan,1206,61,417
+22 Mei 2020,16:28 WIB,Banten,768,66,172
+22 Mei 2020,16:28 WIB,Sumatera Selatan,693,22,95
+22 Mei 2020,16:28 WIB,Kalimantan Selatan,572,57,77
+22 Mei 2020,16:28 WIB,Nusa Tenggara Barat,464,7,220
+22 Mei 2020,16:28 WIB,Sumatera Barat,438,23,157
+22 Mei 2020,16:28 WIB,Papua,437,6,48
+22 Mei 2020,16:28 WIB,Bali,380,4,284
+22 Mei 2020,16:28 WIB,Kalimantan Tengah,290,15,130
+22 Mei 2020,16:28 WIB,Sumatera Utara,285,32,102
+22 Mei 2020,16:28 WIB,Kalimantan Timur,271,3,102
+22 Mei 2020,16:28 WIB,DI Yogyakarta,220,8,117
+22 Mei 2020,16:28 WIB,Sulawesi Tenggara,211,4,30
+22 Mei 2020,16:28 WIB,Sulawesi Utara,198,12,31
+22 Mei 2020,16:28 WIB,Kalimantan Utara,163,1,57
+22 Mei 2020,16:28 WIB,Maluku,157,7,22
+22 Mei 2020,16:28 WIB,Kepulauan Riau,141,12,83
+22 Mei 2020,16:28 WIB,Kalimantan Barat,140,4,38
+22 Mei 2020,16:28 WIB,Papua Barat,119,1,11
+22 Mei 2020,16:28 WIB,Sulawesi Tengah,117,4,37
+22 Mei 2020,16:28 WIB,Riau,109,6,66
+22 Mei 2020,16:28 WIB,Lampung,105,7,34
+22 Mei 2020,16:28 WIB,Maluku Utara,99,4,12
+22 Mei 2020,16:28 WIB,Jambi,91,0,8
+22 Mei 2020,16:28 WIB,Sulawesi Barat,86,2,26
+22 Mei 2020,16:28 WIB,Nusa Tenggara Timur,79,1,6
+22 Mei 2020,16:28 WIB,Bengkulu,69,2,9
+22 Mei 2020,16:28 WIB,Gorontalo,47,2,15
+22 Mei 2020,16:28 WIB,Kep. Bangka Belitung,36,1,26
+22 Mei 2020,16:28 WIB,Lokasi belum diketahui,21,0,0
+22 Mei 2020,16:28 WIB,Aceh,19,1,15
+23 Mei 2020,17:11 WIB,DKI Jakarta,6515,501,1564
+23 Mei 2020,17:11 WIB,Jawa Timur,3595,271,426
+23 Mei 2020,17:11 WIB,Jawa Barat,2045,127,471
+23 Mei 2020,17:11 WIB,Jawa Tengah,1288,70,255
+23 Mei 2020,17:11 WIB,Sulawesi Selatan,1264,61,423
+23 Mei 2020,17:11 WIB,Banten,768,66,172
+23 Mei 2020,17:11 WIB,Sumatera Selatan,725,23,100
+23 Mei 2020,17:11 WIB,Kalimantan Selatan,590,58,77
+23 Mei 2020,17:11 WIB,Papua,494,6,48
+23 Mei 2020,17:11 WIB,Nusa Tenggara Barat,474,8,227
+23 Mei 2020,17:11 WIB,Sumatera Barat,443,24,175
+23 Mei 2020,17:11 WIB,Bali,388,4,287
+23 Mei 2020,17:11 WIB,Sumatera Utara,294,32,102
+23 Mei 2020,17:11 WIB,Kalimantan Tengah,292,15,130
+23 Mei 2020,17:11 WIB,Kalimantan Timur,274,3,105
+23 Mei 2020,17:11 WIB,DI Yogyakarta,225,8,121
+23 Mei 2020,17:11 WIB,Sulawesi Tenggara,215,4,51
+23 Mei 2020,17:11 WIB,Sulawesi Utara,201,14,32
+23 Mei 2020,17:11 WIB,Kalimantan Barat,168,4,38
+23 Mei 2020,17:11 WIB,Kalimantan Utara,163,1,57
+23 Mei 2020,17:11 WIB,Maluku,157,7,22
+23 Mei 2020,17:11 WIB,Kepulauan Riau,150,12,86
+23 Mei 2020,17:11 WIB,Papua Barat,129,2,19
+23 Mei 2020,17:11 WIB,Sulawesi Tengah,121,4,37
+23 Mei 2020,17:11 WIB,Riau,110,6,66
+23 Mei 2020,17:11 WIB,Lampung,105,7,36
+23 Mei 2020,17:11 WIB,Maluku Utara,99,4,12
+23 Mei 2020,17:11 WIB,Jambi,91,0,8
+23 Mei 2020,17:11 WIB,Sulawesi Barat,86,2,27
+23 Mei 2020,17:11 WIB,Nusa Tenggara Timur,79,1,6
+23 Mei 2020,17:11 WIB,Bengkulu,69,2,9
+23 Mei 2020,17:11 WIB,Gorontalo,49,2,17
+23 Mei 2020,17:11 WIB,Kep. Bangka Belitung,39,1,26
+23 Mei 2020,17:11 WIB,Lokasi belum diketahui,21,0,0
+23 Mei 2020,17:11 WIB,Aceh,19,1,17
+25 Mei 2020,17:51 WIB,DKI Jakarta,6709,501,1655
+25 Mei 2020,17:51 WIB,Jawa Timur,3886,292,489
+25 Mei 2020,17:51 WIB,Jawa Barat,2113,128,479
+25 Mei 2020,17:51 WIB,Sulawesi Selatan,1319,66,462
+25 Mei 2020,17:51 WIB,Jawa Tengah,1311,70,260
+25 Mei 2020,17:51 WIB,Sumatera Selatan,812,25,112
+25 Mei 2020,17:51 WIB,Banten,789,66,176
+25 Mei 2020,17:51 WIB,Kalimantan Selatan,602,61,80
+25 Mei 2020,17:51 WIB,Papua,567,6,68
+25 Mei 2020,17:51 WIB,Sumatera Barat,478,24,186
+25 Mei 2020,17:51 WIB,Nusa Tenggara Barat,478,8,258
+25 Mei 2020,17:51 WIB,Bali,396,4,295
+25 Mei 2020,17:51 WIB,Sumatera Utara,315,33,113
+25 Mei 2020,17:51 WIB,Kalimantan Tengah,310,17,151
+25 Mei 2020,17:51 WIB,Kalimantan Timur,276,3,117
+25 Mei 2020,17:51 WIB,Sulawesi Utara,239,18,34
+25 Mei 2020,17:51 WIB,DI Yogyakarta,226,8,124
+25 Mei 2020,17:51 WIB,Sulawesi Tenggara,215,4,51
+25 Mei 2020,17:51 WIB,Kalimantan Barat,175,4,43
+25 Mei 2020,17:51 WIB,Kalimantan Utara,164,1,67
+25 Mei 2020,17:51 WIB,Maluku,160,7,27
+25 Mei 2020,17:51 WIB,Kepulauan Riau,154,12,88
+25 Mei 2020,17:51 WIB,Papua Barat,130,2,22
+25 Mei 2020,17:51 WIB,Sulawesi Tengah,121,4,46
+25 Mei 2020,17:51 WIB,Lampung,116,7,40
+25 Mei 2020,17:51 WIB,Riau,111,6,66
+25 Mei 2020,17:51 WIB,Maluku Utara,107,5,14
+25 Mei 2020,17:51 WIB,Jambi,97,0,15
+25 Mei 2020,17:51 WIB,Sulawesi Barat,86,2,27
+25 Mei 2020,17:51 WIB,Nusa Tenggara Timur,82,1,6
+25 Mei 2020,17:51 WIB,Bengkulu,69,2,9
+25 Mei 2020,17:51 WIB,Gorontalo,58,2,18
+25 Mei 2020,17:51 WIB,Kep. Bangka Belitung,39,1,27
+25 Mei 2020,17:51 WIB,Lokasi belum diketahui,21,0,0
+25 Mei 2020,17:51 WIB,Aceh,19,1,17
+26 Mei 2020,16:30 WIB,DKI Jakarta,6798,501,1668
+26 Mei 2020,16:30 WIB,Jawa Timur,3943,301,506
+26 Mei 2020,16:30 WIB,Jawa Barat,2130,137,505
+26 Mei 2020,16:30 WIB,Sulawesi Selatan,1352,68,499
+26 Mei 2020,16:30 WIB,Jawa Tengah,1315,70,275
+26 Mei 2020,16:30 WIB,Sumatera Selatan,868,25,114
+26 Mei 2020,16:30 WIB,Banten,807,66,178
+26 Mei 2020,16:30 WIB,Kalimantan Selatan,630,63,80
+26 Mei 2020,16:30 WIB,Papua,567,6,68
+26 Mei 2020,16:30 WIB,Sumatera Barat,513,24,208
+26 Mei 2020,16:30 WIB,Nusa Tenggara Barat,488,8,258
+26 Mei 2020,16:30 WIB,Bali,407,4,295
+26 Mei 2020,16:30 WIB,Kalimantan Tengah,322,17,151
+26 Mei 2020,16:30 WIB,Sumatera Utara,315,33,114
+26 Mei 2020,16:30 WIB,Kalimantan Timur,277,3,123
+26 Mei 2020,16:30 WIB,Sulawesi Utara,265,22,35
+26 Mei 2020,16:30 WIB,DI Yogyakarta,226,8,131
+26 Mei 2020,16:30 WIB,Sulawesi Tenggara,215,4,100
+26 Mei 2020,16:30 WIB,Kalimantan Barat,176,4,44
+26 Mei 2020,16:30 WIB,Kalimantan Utara,164,1,68
+26 Mei 2020,16:30 WIB,Maluku,160,7,27
+26 Mei 2020,16:30 WIB,Kepulauan Riau,154,12,88
+26 Mei 2020,16:30 WIB,Papua Barat,132,2,35
+26 Mei 2020,16:30 WIB,Sulawesi Tengah,121,4,48
+26 Mei 2020,16:30 WIB,Maluku Utara,118,5,17
+26 Mei 2020,16:30 WIB,Lampung,116,8,44
+26 Mei 2020,16:30 WIB,Riau,111,6,76
+26 Mei 2020,16:30 WIB,Jambi,97,0,15
+26 Mei 2020,16:30 WIB,Sulawesi Barat,87,2,29
+26 Mei 2020,16:30 WIB,Nusa Tenggara Timur,85,1,7
+26 Mei 2020,16:30 WIB,Bengkulu,69,2,9
+26 Mei 2020,16:30 WIB,Gorontalo,58,2,18
+26 Mei 2020,16:30 WIB,Kep. Bangka Belitung,39,1,27
+26 Mei 2020,16:30 WIB,Lokasi belum diketahui,21,0,0
+26 Mei 2020,16:30 WIB,Aceh,19,1,17
+27 Mei 2020,16:10 WIB,DKI Jakarta,6895,509,1682
+27 Mei 2020,16:10 WIB,Jawa Timur,4142,320,522
+27 Mei 2020,16:10 WIB,Jawa Barat,2157,142,542
+27 Mei 2020,16:10 WIB,Sulawesi Selatan,1381,68,518
+27 Mei 2020,16:10 WIB,Jawa Tengah,1326,70,275
+27 Mei 2020,16:10 WIB,Sumatera Selatan,921,25,114
+27 Mei 2020,16:10 WIB,Banten,817,66,181
+27 Mei 2020,16:10 WIB,Kalimantan Selatan,703,71,80
+27 Mei 2020,16:10 WIB,Papua,581,6,68
+27 Mei 2020,16:10 WIB,Sumatera Barat,537,25,236
+27 Mei 2020,16:10 WIB,Nusa Tenggara Barat,537,9,272
+27 Mei 2020,16:10 WIB,Bali,415,4,302
+27 Mei 2020,16:10 WIB,Sumatera Utara,332,34,116
+27 Mei 2020,16:10 WIB,Kalimantan Tengah,330,17,151
+27 Mei 2020,16:10 WIB,Sulawesi Utara,281,29,36
+27 Mei 2020,16:10 WIB,Kalimantan Timur,280,3,128
+27 Mei 2020,16:10 WIB,DI Yogyakarta,228,8,134
+27 Mei 2020,16:10 WIB,Sulawesi Tenggara,226,4,110
+27 Mei 2020,16:10 WIB,Kalimantan Barat,183,4,44
+27 Mei 2020,16:10 WIB,Maluku,170,7,27
+27 Mei 2020,16:10 WIB,Kalimantan Utara,165,2,69
+27 Mei 2020,16:10 WIB,Kepulauan Riau,162,13,89
+27 Mei 2020,16:10 WIB,Papua Barat,132,2,36
+27 Mei 2020,16:10 WIB,Sulawesi Tengah,121,4,50
+27 Mei 2020,16:10 WIB,Maluku Utara,119,6,18
+27 Mei 2020,16:10 WIB,Lampung,118,10,48
+27 Mei 2020,16:10 WIB,Riau,111,6,77
+27 Mei 2020,16:10 WIB,Jambi,97,0,15
+27 Mei 2020,16:10 WIB,Sulawesi Barat,88,2,32
+27 Mei 2020,16:10 WIB,Nusa Tenggara Timur,85,1,9
+27 Mei 2020,16:10 WIB,Bengkulu,69,2,14
+27 Mei 2020,16:10 WIB,Gorontalo,60,2,18
+27 Mei 2020,16:10 WIB,Kep. Bangka Belitung,42,1,27
+27 Mei 2020,16:10 WIB,Lokasi belum diketahui,21,0,0
+27 Mei 2020,16:10 WIB,Aceh,19,1,17
+28 Mei 2020,16:35 WIB,DKI Jakarta,7001,509,1702
+28 Mei 2020,16:35 WIB,Jawa Timur,4313,334,548
+28 Mei 2020,16:35 WIB,Jawa Barat,2181,142,586
+28 Mei 2020,16:35 WIB,Sulawesi Selatan,1427,68,520
+28 Mei 2020,16:35 WIB,Jawa Tengah,1336,70,276
+28 Mei 2020,16:35 WIB,Sumatera Selatan,942,25,123
+28 Mei 2020,16:35 WIB,Banten,831,66,205
+28 Mei 2020,16:35 WIB,Kalimantan Selatan,819,71,80
+28 Mei 2020,16:35 WIB,Papua,584,6,68
+28 Mei 2020,16:35 WIB,Nusa Tenggara Barat,562,10,273
+28 Mei 2020,16:35 WIB,Sumatera Barat,541,25,242
+28 Mei 2020,16:35 WIB,Bali,420,4,314
+28 Mei 2020,16:35 WIB,Sumatera Utara,362,36,118
+28 Mei 2020,16:35 WIB,Kalimantan Tengah,337,17,151
+28 Mei 2020,16:35 WIB,Sulawesi Utara,297,34,38
+28 Mei 2020,16:35 WIB,Kalimantan Timur,281,3,134
+28 Mei 2020,16:35 WIB,Sulawesi Tenggara,240,4,110
+28 Mei 2020,16:35 WIB,DI Yogyakarta,228,8,142
+28 Mei 2020,16:35 WIB,Maluku,188,8,34
+28 Mei 2020,16:35 WIB,Kalimantan Barat,184,4,44
+28 Mei 2020,16:35 WIB,Kepulauan Riau,175,13,89
+28 Mei 2020,16:35 WIB,Kalimantan Utara,165,2,69
+28 Mei 2020,16:35 WIB,Papua Barat,152,2,38
+28 Mei 2020,16:35 WIB,Maluku Utara,128,6,21
+28 Mei 2020,16:35 WIB,Sulawesi Tengah,126,4,52
+28 Mei 2020,16:35 WIB,Lampung,118,10,48
+28 Mei 2020,16:35 WIB,Riau,111,6,80
+28 Mei 2020,16:35 WIB,Jambi,97,0,15
+28 Mei 2020,16:35 WIB,Sulawesi Barat,88,2,34
+28 Mei 2020,16:35 WIB,Nusa Tenggara Timur,85,1,9
+28 Mei 2020,16:35 WIB,Bengkulu,71,2,14
+28 Mei 2020,16:35 WIB,Gorontalo,65,2,19
+28 Mei 2020,16:35 WIB,Kep. Bangka Belitung,42,1,27
+28 Mei 2020,16:35 WIB,Lokasi belum diketahui,21,0,0
+28 Mei 2020,16:35 WIB,Aceh,20,1,17
+29 Mei 2020,16:07 WIB,DKI Jakarta,7128,509,1739
+29 Mei 2020,16:07 WIB,Jawa Timur,4414,345,570
+29 Mei 2020,16:07 WIB,Jawa Barat,2211,142,592
+29 Mei 2020,16:07 WIB,Sulawesi Selatan,1468,71,532
+29 Mei 2020,16:07 WIB,Jawa Tengah,1350,70,336
+29 Mei 2020,16:07 WIB,Sumatera Selatan,953,27,137
+29 Mei 2020,16:07 WIB,Kalimantan Selatan,893,72,82
+29 Mei 2020,16:07 WIB,Banten,845,69,217
+29 Mei 2020,16:07 WIB,Papua,640,6,68
+29 Mei 2020,16:07 WIB,Nusa Tenggara Barat,590,10,276
+29 Mei 2020,16:07 WIB,Sumatera Barat,541,25,250
+29 Mei 2020,16:07 WIB,Bali,443,4,320
+29 Mei 2020,16:07 WIB,Sumatera Utara,400,36,118
+29 Mei 2020,16:07 WIB,Kalimantan Tengah,367,17,158
+29 Mei 2020,16:07 WIB,Sulawesi Utara,306,35,39
+29 Mei 2020,16:07 WIB,Kalimantan Timur,285,3,143
+29 Mei 2020,16:07 WIB,Sulawesi Tenggara,241,4,113
+29 Mei 2020,16:07 WIB,DI Yogyakarta,230,8,149
+29 Mei 2020,16:07 WIB,Maluku,215,8,35
+29 Mei 2020,16:07 WIB,Kalimantan Barat,184,4,47
+29 Mei 2020,16:07 WIB,Kepulauan Riau,178,14,97
+29 Mei 2020,16:07 WIB,Kalimantan Utara,165,2,72
+29 Mei 2020,16:07 WIB,Papua Barat,158,2,42
+29 Mei 2020,16:07 WIB,Maluku Utara,139,7,21
+29 Mei 2020,16:07 WIB,Lampung,131,10,55
+29 Mei 2020,16:07 WIB,Sulawesi Tengah,126,4,52
+29 Mei 2020,16:07 WIB,Riau,117,6,84
+29 Mei 2020,16:07 WIB,Jambi,97,0,15
+29 Mei 2020,16:07 WIB,Nusa Tenggara Timur,90,1,12
+29 Mei 2020,16:07 WIB,Sulawesi Barat,88,2,34
+29 Mei 2020,16:07 WIB,Bengkulu,72,2,20
+29 Mei 2020,16:07 WIB,Gorontalo,68,3,23
+29 Mei 2020,16:07 WIB,Kep. Bangka Belitung,42,1,27
+29 Mei 2020,16:07 WIB,Lokasi belum diketahui,21,0,0
+29 Mei 2020,16:07 WIB,Aceh,20,1,17
+30 Mei 2020,16:30 WIB,DKI Jakarta,7229,516,2005
+30 Mei 2020,16:30 WIB,Jawa Timur,4613,372,589
+30 Mei 2020,16:30 WIB,Jawa Barat,2231,144,616
+30 Mei 2020,16:30 WIB,Sulawesi Selatan,1510,72,564
+30 Mei 2020,16:30 WIB,Jawa Tengah,1366,70,355
+30 Mei 2020,16:30 WIB,Sumatera Selatan,963,31,169
+30 Mei 2020,16:30 WIB,Kalimantan Selatan,893,77,97
+30 Mei 2020,16:30 WIB,Banten,858,69,244
+30 Mei 2020,16:30 WIB,Papua,658,6,68
+30 Mei 2020,16:30 WIB,Nusa Tenggara Barat,594,10,279
+30 Mei 2020,16:30 WIB,Sumatera Barat,552,25,256
+30 Mei 2020,16:30 WIB,Bali,455,4,328
+30 Mei 2020,16:30 WIB,Sumatera Utara,406,41,123
+30 Mei 2020,16:30 WIB,Kalimantan Tengah,398,19,164
+30 Mei 2020,16:30 WIB,Sulawesi Utara,322,35,40
+30 Mei 2020,16:30 WIB,Kalimantan Timur,291,3,161
+30 Mei 2020,16:30 WIB,Sulawesi Tenggara,241,4,113
+30 Mei 2020,16:30 WIB,DI Yogyakarta,233,8,158
+30 Mei 2020,16:30 WIB,Maluku,215,8,35
+30 Mei 2020,16:30 WIB,Kepulauan Riau,196,14,102
+30 Mei 2020,16:30 WIB,Kalimantan Barat,184,4,47
+30 Mei 2020,16:30 WIB,Kalimantan Utara,165,2,72
+30 Mei 2020,16:30 WIB,Papua Barat,162,2,49
+30 Mei 2020,16:30 WIB,Maluku Utara,146,7,27
+30 Mei 2020,16:30 WIB,Lampung,132,10,67
+30 Mei 2020,16:30 WIB,Sulawesi Tengah,126,4,52
+30 Mei 2020,16:30 WIB,Riau,117,6,85
+30 Mei 2020,16:30 WIB,Jambi,97,0,15
+30 Mei 2020,16:30 WIB,Nusa Tenggara Timur,91,1,12
+30 Mei 2020,16:30 WIB,Sulawesi Barat,88,2,34
+30 Mei 2020,16:30 WIB,Bengkulu,86,2,22
+30 Mei 2020,16:30 WIB,Gorontalo,69,3,23
+30 Mei 2020,16:30 WIB,Kep. Bangka Belitung,45,1,27
+30 Mei 2020,16:30 WIB,Lokasi belum diketahui,21,0,0
+30 Mei 2020,16:30 WIB,Aceh,20,1,17
+31 Mei 2020,15:59 WIB,DKI Jakarta,7348,517,2082
+31 Mei 2020,15:59 WIB,Jawa Timur,4857,396,609
+31 Mei 2020,15:59 WIB,Jawa Barat,2260,144,619
+31 Mei 2020,15:59 WIB,Sulawesi Selatan,1541,74,596
+31 Mei 2020,15:59 WIB,Jawa Tengah,1403,70,361
+31 Mei 2020,15:59 WIB,Sumatera Selatan,982,34,203
+31 Mei 2020,15:59 WIB,Kalimantan Selatan,919,80,99
+31 Mei 2020,15:59 WIB,Banten,861,69,244
+31 Mei 2020,15:59 WIB,Papua,675,6,68
+31 Mei 2020,15:59 WIB,Nusa Tenggara Barat,636,10,291
+31 Mei 2020,15:59 WIB,Sumatera Barat,567,25,265
+31 Mei 2020,15:59 WIB,Bali,465,4,329
+31 Mei 2020,15:59 WIB,Kalimantan Tengah,410,19,164
+31 Mei 2020,15:59 WIB,Sumatera Utara,409,41,146
+31 Mei 2020,15:59 WIB,Sulawesi Utara,339,37,51
+31 Mei 2020,15:59 WIB,Kalimantan Timur,295,3,172
+31 Mei 2020,15:59 WIB,Sulawesi Tenggara,244,4,122
+31 Mei 2020,15:59 WIB,DI Yogyakarta,236,8,160
+31 Mei 2020,15:59 WIB,Maluku,223,8,36
+31 Mei 2020,15:59 WIB,Kepulauan Riau,197,15,102
+31 Mei 2020,15:59 WIB,Kalimantan Barat,189,4,53
+31 Mei 2020,15:59 WIB,Papua Barat,168,2,55
+31 Mei 2020,15:59 WIB,Kalimantan Utara,165,2,72
+31 Mei 2020,15:59 WIB,Maluku Utara,153,11,27
+31 Mei 2020,15:59 WIB,Lampung,133,10,71
+31 Mei 2020,15:59 WIB,Sulawesi Tengah,128,4,61
+31 Mei 2020,15:59 WIB,Riau,117,6,88
+31 Mei 2020,15:59 WIB,Jambi,97,0,15
+31 Mei 2020,15:59 WIB,Gorontalo,94,3,26
+31 Mei 2020,15:59 WIB,Sulawesi Barat,92,2,41
+31 Mei 2020,15:59 WIB,Nusa Tenggara Timur,92,1,14
+31 Mei 2020,15:59 WIB,Bengkulu,91,2,22
+31 Mei 2020,15:59 WIB,Kep. Bangka Belitung,46,1,27
+31 Mei 2020,15:59 WIB,Lokasi belum diketahui,21,0,0
+31 Mei 2020,15:59 WIB,Aceh,20,1,17
