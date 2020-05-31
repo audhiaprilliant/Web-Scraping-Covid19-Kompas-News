@@ -58,7 +58,7 @@ if __name__ == "__main__":
             print('Last update:',re.findall(r'^(.+?),',last_line)[0])
         else:
             with open(dir_path+'/'+'Datasets/summary_covid19.txt','a+') as ff:
-                ff.write('\n{}'.format(daily_update))
+                ff.write('{}\n'.format(daily_update))
                 print('----- Summary Data -----')
                 print('The data has been updated successfully!')
                 print('Up to date data:', re.findall(r'^(.+?),',daily_update)[0])
