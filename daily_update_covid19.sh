@@ -2,13 +2,12 @@
 
 # Directory
 dir_covid=$(pwd)
-current_date=$(date +%Y-%m-%d)
 # Run the python program
 cd $dir_covid && /usr/bin/python3 'Web Scraping Covid-19 Kompas News.py' >> test.out
 
 # Sleep 5 seconds
 sleep 5
-
+current_date=$(tail -n 1 ${dir_covid}/Datasets/summary_covid19.txt | cut -d, -f1)
 # Git add commit push
 git add .
 git commit ${dir_covid}/test.out -m "Update monitoring data $current_date"
