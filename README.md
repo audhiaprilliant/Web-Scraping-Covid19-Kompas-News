@@ -1,4 +1,3 @@
-# AUDHI
 ## Web Scraping Covid19 Kompas News Using BeautifulSoup Python3
 ### Indonesia
 
