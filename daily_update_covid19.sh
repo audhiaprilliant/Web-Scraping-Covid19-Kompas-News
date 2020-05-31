@@ -4,7 +4,7 @@
 dir_covid=$(pwd)
 current_date=$(date +%Y-%m-%d)
 # Run the python program
-cd $dir_covid && /usr/bin/python3 'Web Scraping Covid-19 Kompas News.py'
+cd $dir_covid && /usr/bin/python3 'Web Scraping Covid-19 Kompas News.py' >> test.out
 
 # Sleep 5 seconds
 sleep 5
