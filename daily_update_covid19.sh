@@ -14,4 +14,4 @@ cd $dir_covid /usr/bin/git add .
 /usr/bin/git commit ${dir_covid}/Datasets/summary_covid19.txt -m "Update summary data $current_date"
 /usr/bin/git commit ${dir_covid}/Datasets/daily_update_covid.csv -m "Update provinces data $current_date"
 # Git commit
-cd $dir_covid /usr/bin/git push origin master
+cd $dir_covid /usr/bin/git push -u origin master
