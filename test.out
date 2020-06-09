@@ -250,3 +250,17 @@ Up to date data: 8 Juni 2020
 4  8 Juni 2020  15:51 WIB       Jawa Tengah          1642        98    428
 Program is done in 0:00:01.009187 
 
+----- Summary Data -----
+The data has been updated successfully!
+Up to date data: 9 Juni 2020
+----- Provinces Data -----
+The data has been updated successfully!
+Up to date data: 9 Juni 2020
+          date       time          provinsi terkonfirmasi meninggal sembuh
+0  9 Juni 2020  16:09 WIB       DKI Jakarta          8355       533   3371
+1  9 Juni 2020  16:09 WIB        Jawa Timur          6533       514   1584
+2  9 Juni 2020  16:09 WIB        Jawa Barat          2448       161    962
+3  9 Juni 2020  16:09 WIB  Sulawesi Selatan          2194        97    704
+4  9 Juni 2020  16:09 WIB       Jawa Tengah          1674       103    508
+Program is done in 0:00:04.258212 
+
