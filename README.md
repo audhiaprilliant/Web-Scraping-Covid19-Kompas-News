@@ -2,7 +2,7 @@
 ### Indonesia
 
 Cite the data: http://datasets.coronawhy.org/dataset.xhtml?persistentId=doi:10.5072/FK2/FMB3QB
-```
+```LaTeX
 @data{FK2/FMB3QB_2020,
 author = {audhiaprilliant/Web-Scraping-Covid19-Kompas-News},
 publisher = {COVID-19 Data Hub},
