@@ -17,6 +17,8 @@ from datetime import datetime
 url = 'https://www.kompas.com/covid-19'
 dir_path = os.getcwd()
 startTime = datetime.now()
+dict_month = {'Januari':'01','Februari':'02','Maret':'03','April':'04','Mei':'05','Juni':'06','Juli':'07',
+              'Agustus':'08','September':'09','Oktober':'10','November':'11','Desember':'12'}
 
 if __name__ == "__main__":
     # Get the url
@@ -31,6 +33,18 @@ if __name__ == "__main__":
     date_scrape = re.findall(r'Update terakhir: (\S+.+WIB)',date_scrape)[0].replace(', ',',')
     date = date_scrape.split(',')[0]
     time = date_scrape.split(',')[1]
+
+    # Date manipulation
+    date_format = re.findall(r'\w+',date)[0]
+    month_format = re.findall(r'\w+',date)[1]
+    year_format = re.findall(r'\w+',date)[2]
+    # If condition
+    if len(date_format) == 1:
+        date_format = '0' + date_format
+    else:
+        date_format = date_format
+    # New date format
+    date = year_format+'/'+dict_month.get(month_format)+'/'+date_format
 
     # Get summary
     # Regular expression pattern
