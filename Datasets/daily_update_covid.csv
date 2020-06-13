@@ -1,4 +1,4 @@
-date,time,provinsi,terkonfirmasi,meninggal,sembuh
+date,time,provinces,confirmed,deaths,recovered
 9 Mei 2020,16:07 WIB,Jawa Barat,1437,95,202
 9 Mei 2020,16:07 WIB,Jawa Timur,1419,141,227
 9 Mei 2020,16:07 WIB,Jawa Tengah,959,66,173

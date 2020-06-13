@@ -84,8 +84,8 @@ if __name__ == "__main__":
         sembuh_prov.append(pattern_prov.findall(sembuh_elem.text)[0])
 
     # Create dataframe
-    dic_data = {'date':[date]*len(provinsi),'time':[time]*len(provinsi),'provinsi':provinsi,
-                'terkonfirmasi':terkonfirmasi_prov,'meninggal':meninggal_prov,'sembuh':sembuh_prov}
+    dic_data = {'date':[date]*len(provinsi),'time':[time]*len(provinsi),'provinces':provinsi,
+                'confirmed':terkonfirmasi_prov,'deaths':meninggal_prov,'recovered':sembuh_prov}
     df = pd.DataFrame(data=dic_data)
 
     with open(dir_path+'/'+'Datasets/daily_update_covid.csv','r') as f:

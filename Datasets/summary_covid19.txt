@@ -1,5 +1,5 @@
-date,time,terkonfirmasi,dirawat,meninggal,sembuh
-9 Mei 2020,16:07 WIB,13.645,10.079,959,2.607
+date,time,confirmed,treated,deaths,recovered
+9 Mei 2020,16:07 WIB,13645,10079,959,2607
 10 Mei 2020,15:57 WIB,14032,10361,973,2698
 11 Mei 2020,16:16 WIB,14265,10393,991,2881
 12 Mei 2020,15:54 WIB,14749,10679,1007,3063
