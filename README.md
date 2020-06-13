@@ -2,6 +2,17 @@
 ### Indonesia
 
 Cite the data: http://datasets.coronawhy.org/dataset.xhtml?persistentId=doi:10.5072/FK2/FMB3QB
+```
+@data{FK2/FMB3QB_2020,
+author = {audhiaprilliant/Web-Scraping-Covid19-Kompas-News},
+publisher = {COVID-19 Data Hub},
+title = "{Web Scraping Covid19 Kompas News}",
+year = {2020},
+version = {V1},
+doi = {10.5072/FK2/FMB3QB},
+url = {https://doi.org/10.5072/FK2/FMB3QB}
+}
+```
 
 ### Prerequisites
 1. Python 3.x, of course
