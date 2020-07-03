@@ -63,10 +63,10 @@ Docker is a set of platform as a service (PaaS) products that delivers software 
    - `sudo systemctl start docker`
    - `sudo systemctl enable docker`
 3. Build an image with our Dockerfile
-   - `docker build -t IMAGE_NAME:TAG .`
+   - `docker build -t IMAGE_NAME:TAG .`  
    For example: `docker build -t web-scraping-covid-kompas:1.0 .`
 4. Look for an image we have build
    - `docker images`
 5. Test our container on our local machine
-   - `docker run USERNAEM/IMAGE_NAME:TAG`
+   - `docker run USERNAEM/IMAGE_NAME:TAG`  
    For example: `docker run web-scraping-covid-kompas:1.0 .`
