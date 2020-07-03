@@ -53,3 +53,20 @@ We could also automate the program by using crobtab scheduler in Linux. Follow s
    - `>> test.out` implies that the file `test.out`would be created and as logs for the outputs
 5. Finally, save the crontab configuration
 
+### Dockerfile
+Docker is a set of platform as a service (PaaS) products that delivers software in packages called containers. Containers are isolated from one another and bundle their own software, libraries and configuration files; they can communicate with each other through well-defined channels. All containers are run by a single operating system kernel and therefore use fewer resources than virtual machines.
+1. Install docker in your terminal 
+   - Update software repositories `sudo apt-get update`
+   - Uninstall old version of docker `sudo apt-get remove docker docker-engine docker.io`
+   - Install docker `sudo apt install docker.io`
+2. Start and automate docker
+   - `sudo systemctl start docker`
+   - `sudo systemctl enable docker`
+3. Build an image with our Dockerfile
+   - `docker build -t IMAGE_NAME:TAG .`
+   For example: `docker build -t web-scraping-covid-kompas:1.0 .`
+4. Look for an image we have build
+   - `docker images`
+5. Test our container on our local machine
+   - `docker run USERNAEM/IMAGE_NAME:TAG`
+   For example: `docker run web-scraping-covid-kompas:1.0 .`
