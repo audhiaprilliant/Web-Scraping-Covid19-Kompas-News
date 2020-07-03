@@ -1,0 +1,10 @@
+.git
+.gitignore
+img
+log.out
+README.md
+LICENSE
+Dockerfile*
+daily_update_covid19.sh
+'Manipulation Data.ipynb'
+'Web Scraping Covid-19 Kompas News.ipynb'
