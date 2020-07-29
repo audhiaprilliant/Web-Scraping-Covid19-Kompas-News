@@ -1,4 +1,4 @@
-date,confirmed,deaths,recovered,treated
+date,confirmed,treated,deaths,recovered
 2020/03/02,17:17 WIB,2,0,0,2
 2020/03/03,17:17 WIB,2,0,0,2
 2020/03/04,17:17 WIB,2,0,0,2
