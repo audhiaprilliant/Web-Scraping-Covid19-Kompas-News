@@ -1456,3 +1456,17 @@ Up to date data: 2020/08/31
 4  2020/08/31  18:31 WIB        Jawa Barat     11063    273      6150
 Program is done in 0:00:01.004655 
 
+----- Summary Data -----
+The data has been updated successfully!
+Up to date data: 2020/09/01
+----- Provinces Data -----
+The data has been updated successfully!
+Up to date data: 2020/09/01
+         date       time         provinces confirmed deaths recovered
+0  2020/09/01  17:27 WIB       DKI Jakarta     40987   1214     31267
+1  2020/09/01  17:27 WIB        Jawa Timur     33893   2396     26463
+2  2020/09/01  17:27 WIB       Jawa Tengah     14164   1012      9094
+3  2020/09/01  17:27 WIB  Sulawesi Selatan     12057    360      9322
+4  2020/09/01  17:27 WIB        Jawa Barat     11278    275      6202
+Program is done in 0:00:01.451918 
+
