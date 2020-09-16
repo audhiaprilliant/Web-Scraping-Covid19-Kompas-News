@@ -1716,3 +1716,17 @@ Up to date data: 2020/09/15
 4  2020/09/15  15:48 WIB  Sulawesi Selatan     13583    383     10213
 Program is done in 0:00:00.983737 
 
+----- Summary Data -----
+The data has been updated successfully!
+Up to date data: 2020/09/16
+----- Provinces Data -----
+The data has been updated successfully!
+Up to date data: 2020/09/16
+         date       time         provinces confirmed deaths recovered
+0  2020/09/16  16:11 WIB       DKI Jakarta     57469   1481     44171
+1  2020/09/16  16:11 WIB        Jawa Timur     39181   2867     31585
+2  2020/09/16  16:11 WIB       Jawa Tengah     18451   1179     11632
+3  2020/09/16  16:11 WIB        Jawa Barat     15231    306      8319
+4  2020/09/16  16:11 WIB  Sulawesi Selatan     13747    386     10345
+Program is done in 0:00:02.605422 
+
